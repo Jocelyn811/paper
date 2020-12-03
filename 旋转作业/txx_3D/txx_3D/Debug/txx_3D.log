@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(txx_3D.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  1.cpp
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(172,23): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(188,13): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(252,11): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(253,11): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(256,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(257,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(258,10): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(259,10): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\旋转作业\txx_3D\txx_3D\1.cpp(280,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  txx_3D.vcxproj -> D:\新建文件夹\旋转作业\txx_3D\Debug\try_3D.exe

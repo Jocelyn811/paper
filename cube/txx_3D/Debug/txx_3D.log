@@ -1,0 +1,10 @@
+﻿  1.cpp
+D:\新建文件夹\cube\txx_3D\1.cpp(197,23): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\cube\txx_3D\1.cpp(414,11): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\cube\txx_3D\1.cpp(415,11): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\cube\txx_3D\1.cpp(418,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\cube\txx_3D\1.cpp(419,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\cube\txx_3D\1.cpp(420,10): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\cube\txx_3D\1.cpp(421,10): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\新建文件夹\cube\txx_3D\1.cpp(442,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  txx_3D.vcxproj -> D:\新建文件夹\cube\Debug\txx_3D.exe
